@@ -1,0 +1,14 @@
+{
+  "name": "yorozu.tool.find-use-component",
+  "version": "0.0.1",
+  "displayName": "FindUseComponentPrefab",
+  "description": "",
+  "author": {
+    "name": "Yorozu",
+    "email": "hatch.tech.eng@gmail.com",
+    "url": "https://github.com/yayorozu"
+  },
+  "keywords": [
+    "tool"
+  ]
+}
